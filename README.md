@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/UkS0CmS.jpg" height="80%" width="80%" alt="restore"/>
 </p>
 
-<h1>Create a storage pool using Windows storage spaces</h1>
+<h1>Create a Windows System Restore Point</h1>
 
 
 <h2>Description</h2>
