@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/UkS0CmS.jpg" height="80%" width="80%" alt="restore"/>
+ <img src="https://i.imgur.com/R041d6x.png" height="80%" width="80%" alt="restore"/>
 </p>
 
 <h1>Create a Windows System Restore Point</h1>
@@ -69,7 +69,7 @@ Hit create to create your restore point. Then give your restore point a name the
 <br />
    I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/QRrbaxE.jpg" height="80%" width="80%" alt="restore"/>
+<img src="https://i.imgur.com/RX2pwh6.jpg" height="80%" width="80%" alt="restore"/>
 <br />
 <br />
 </p>
