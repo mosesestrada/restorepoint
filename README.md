@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/R041d6x.png" height="80%" width="80%" alt="restore"/>
+ <img src="https://i.imgur.com/7DCdSEP.png" height="80%" width="80%" alt="restore"/>
 </p>
 
 <h1>Create a Windows System Restore Point</h1>
