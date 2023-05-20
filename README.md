@@ -69,7 +69,7 @@ Hit create to create your restore point. Then give your restore point a name the
 <br />
    I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/RX2pwh6.jpg" height="80%" width="80%" alt="restore"/>
+<img src="https://i.imgur.com/ozcYbXI.jpg" height="80%" width="80%" alt="restore"/>
 <br />
 <br />
 </p>
